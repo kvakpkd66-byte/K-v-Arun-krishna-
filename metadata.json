@@ -1,0 +1,6 @@
+{
+  "name": "KvakBubly Hub",
+  "description": "YouTube channel hub and video companion for @kvakbubly, @bublyai, @kvakfudokapcai, and @kvakkiddiesai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
